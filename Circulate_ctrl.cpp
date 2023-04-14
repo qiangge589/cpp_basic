@@ -11,7 +11,7 @@ int main()
 		std::cout << i << std::endl;
 	}
 		
-	//上与下等价
+	//Up and Down Equivalence
 	/*int i = 0;
 	bool condition = true;
 	for (; condition;)
